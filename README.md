@@ -65,7 +65,7 @@ Click WA logo to Join Support Group 👇👇
   
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/terror-boy/WhiteDevil)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kuttu20/WhiteDevil)
   
   
  
